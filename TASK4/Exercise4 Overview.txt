@@ -1,0 +1,11 @@
+Problem Setup
+
+A factory wants to maximize profit by deciding how many units of two products to produce while considering machine and labor constraints.
+
+Solution
+
+A Linear Programming model was created using PuLP to determine optimal production quantities.
+
+Insights
+
+The model suggests producing more of Product B because it provides higher profit while still satisfying resource constraints.
